@@ -1,2 +1,2 @@
 # heavy-machinery-control-simulation
-A simple simulation of controlling heavy machinery
+A simple Arduino UNO based simulation of controlling heavy machinery
